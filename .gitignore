@@ -18,3 +18,5 @@ dist/
 *.log
 .env*
 backend\.venv\
+*.pyc
+backend\__pycache__
